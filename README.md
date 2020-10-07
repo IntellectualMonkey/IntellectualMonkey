@@ -2,7 +2,7 @@
 
 
 
-read more
+Click to here to read more
 
 <!--
 **IntellectualMonkey/IntellectualMonkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
